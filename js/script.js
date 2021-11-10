@@ -3,7 +3,7 @@ const app = new Vue({
   data:{
     primoProgramma : 'Ciao mondo!!',
     messaggio:'il primo programma con Vue è stato creato il ' + new Date().toLocaleString(),
-    coloreStile: 'rossobold'
+  
   },
 
 })
